@@ -1,0 +1,1 @@
+$("#spam_image").on("click", function() {alert("~~lol~~\nYou clicked the spam.");})
