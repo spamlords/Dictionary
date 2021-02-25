@@ -1,5 +1,15 @@
 body 
 {
-	background-color: rgb(41, 36, 36);
-	color: white;
+	background-color: rgb(26, 26, 26);
+	color: rgb(204, 204, 204);
+}
+header
+{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+#spam_image
+{
+	max-width: 150px;
+	max-height: 150px;
 }
